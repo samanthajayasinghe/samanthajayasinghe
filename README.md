@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Samantha Jayasinghe
 - 👀 I’m interested in Open source contributions and Cloud Native technologies  
-- 🌱 I’m currently learning Kubernetes and Helm 
-- 💞️ I’m contributing to [OrangeHRM](https://github.com/orangehrm/orangehrm) and [Totara Docker Dev](https://github.com/totara/totara-docker-dev)
+- 🌱 I’m currently learning Kubernetes,Helm and OpenShift
 - 📫 You can reach me via GitHub or [Linkedin](https://www.linkedin.com/in/samanthatec/)
 
 <!---
