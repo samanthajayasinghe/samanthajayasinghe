@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samantha Jayasinghe
 - 👀 I’m interested in Open source contributions and Cloud Native technologies  
-- 🌱 I’m currently learning Kubernetes,Helm and OpenShift
+- 🌱 I’m currently contributing to managed OpenShift operators and backplane 
 - 📫 You can reach me via GitHub or [Linkedin](https://www.linkedin.com/in/samanthatec/)
 
 <!---
