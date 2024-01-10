@@ -3,7 +3,8 @@
 ##  About Me:
 - 👋 Hi, I’m Samantha Jayasinghe
 - 👀 I’m interested in Open source contributions and Cloud Native technologies  
-- 🌱 I’m currently contributing to managed OpenShift operators and backplane 
+- 🌱 I’m currently contributing to managed OpenShift operators and backplane
+- 🙇 Maintainer of Backplane and OrangeHRM  
 - 📫 You can reach me via GitHub or [Linkedin](https://www.linkedin.com/in/samanthatec/)
 
 ## GitHub Stats:
