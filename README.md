@@ -6,8 +6,8 @@ large fleets healthy, automating the toil away, and making on-call less painful.
 🔭 **Currently working on:** ROSA / OpenShift fleet operations, incident
    automation, and agent-driven SRE tooling.
 
-🌱 **Into:** reliability engineering, observability, and automating operational
-   workflows end to end.
+🌱 **Into:** reliability engineering, observability, automating operational
+   workflows end to end — and road cycling when I'm away from the keyboard.
 
 💬 **Ask me about:** OpenShift, Kubernetes, on-call/incident response, and
    turning runbooks into automation.
@@ -22,6 +22,12 @@ large fleets healthy, automating the toil away, and making on-call less painful.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+
+### 📝 On my blog
+
+I write about reliability, automation, and operating Kubernetes / OpenShift at
+scale. **Read the latest posts at [samanthajayasinghe.github.io](https://samanthajayasinghe.github.io/)**
+— I'd love for you to take a look and share your feedback!
 
 ### 📫 Reach me
 
