@@ -1,4 +1,4 @@
-## Hi, I'm Samantha 👋
+## Hi, I'm Sam(antha) 👋
 
 Site Reliability Engineer focused on managed Kubernetes / OpenShift — keeping
 large fleets healthy, automating the toil away, and making on-call less painful.
